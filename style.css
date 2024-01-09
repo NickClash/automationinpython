@@ -1,0 +1,107 @@
+html {
+
+    font-family: sans-serif;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.titulo {
+
+    border: 1px solid #000;
+    text-align: center;
+    width: 70%;
+    margin-left: auto; /*margem da border*/
+    margin-right: auto;
+    border-radius: 15px; /*ponta da borda*/
+    background-color: #386083;
+    color: white;
+    margin-bottom: 60px;
+    
+}
+
+.explicacao {
+
+    display: flex;
+    margin-bottom: 60px;
+
+}
+
+.video {
+
+    width: 50%;
+}
+
+.justificativa {
+
+    margin-left: 20px;
+    font-size: 22px;
+    padding: 20px;
+    background-color: #F2D57E;
+    border-radius: 15px;
+    text-align: justify;
+    box-shadow: -5px 5px 0px 0px #F2C335;
+    
+}
+
+.pr1 {
+
+    display: flex;
+    margin-bottom: 5px;
+    
+}
+
+.primeiro {
+
+    padding: 20px;
+    margin-left: 20px;
+    background-color: #F2D57E;
+    font-size: 22px;
+    text-align: justify;
+    border-radius: 15px;
+    box-shadow: -5px 5px 0px 0px #F2C335;
+    
+
+
+}
+
+.pr2 {
+
+    display: flex;
+    margin-bottom: 20 px;
+
+    
+}
+
+
+.segundo{
+
+    padding: 20px;
+    margin-left: 20px;
+    background-color: #F2D57E;
+    font-size: 22px;
+    text-align: justify;
+    border-radius: 15px;
+    box-shadow: -5px 5px 0px 0px #F2C335;
+}
+
+.pr3 {
+
+    display: flex;
+
+}
+
+.Terceiro{
+
+    padding: 20px;
+    margin-left: 20px;
+    background-color: #F2D57E;
+    font-size: 22px;
+    text-align: justify;
+    border-radius: 15px;
+    box-shadow: -5px 5px 0px 0px #F2C335;
+}
+
+.teste {
+
+    text-align: center;
+    padding: 30px;
+}
